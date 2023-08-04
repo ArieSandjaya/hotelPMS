@@ -1,0 +1,13 @@
+{
+    "DB_USERNAME": "root",
+    "DB_PASSWORD": "P@ssw0rd",
+    "DB_PORT": "3306",
+    "DB_HOST": "127.0.0.1",
+    "DB_NAME": "PMS_DB",
+    "DB_CONN_MAX_IDLE_TIME": 10,
+    "DB_MAX_IDLE_CONNS": 80,
+    "DB_MAX_OPEN_CONNS": 100,
+    "MID_SERVER_KEY": "SB-Mid-server-ArCdNclv4Q-1eTNtrQJBC_nN",
+    "MID_CLIENT_KEY": "SB-Mid-client-YGWX2L8auSgoiyiT",
+    "SECRET_KEY": "PMS_DB_s3cr3T_k3Y"
+  }
